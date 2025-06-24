@@ -1,0 +1,2 @@
+# schimmbot-web
+Schimmbot webinterface
